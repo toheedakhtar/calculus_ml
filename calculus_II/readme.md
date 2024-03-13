@@ -1,0 +1,18 @@
+## covers 
+- Derivative
+  - Partial derivatives
+  - Partial derivatives with PyTorch
+- single point regression with PyTorch
+- Batch Regression 
+  - Gradient
+  - Gradient Descent
+- Integrals
+  - Notebook
+    - Numerical Integration
+    - Area Under ROC Curve
+  - Youtube Tutorials
+      - Binary Classification
+      - The confusion matrix
+      - The ROC (Receiver-Operating Charecterstic) Curve
+      - Integral (Definite / Finite / Numeric )
+      - Finding area under ROC curve  
